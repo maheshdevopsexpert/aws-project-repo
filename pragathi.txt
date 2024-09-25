@@ -1,3 +1,5 @@
 Welcome to Advanced GIT Training
 branches
 target Branches
+Linear Branches
+Linear commit history
