@@ -1,3 +1,4 @@
 Devops is all about infra automation 
 ansible & CiCd  plays an important role
 Kubernetes is more about a platform to deploy your apps in a contenarised environment
+Along with Devops one must need to have strong knowledge on one public cloud
